@@ -1,24 +1,29 @@
-- topic: The Technical Writing Monkey
+- topic: Open Source office suite LibreOffice for Windows
   filename: c-intro.html
   child: false
   publish: true
 
-- topic: How to feed a monkey
-  filename: t-feeding.html
+- topic: How to download and install LibreOffice for Windows
+  filename: t-download.html
+  child: false
+  publish: true
+  
+ - topic: How to first launch LibreOffice suite
+  filename: t-first_run.html
   child: false
   publish: true
 
-- topic: How to give iced tea to a monkey
-  filename: t-givingtea.html
-  child: true
+- topic: How to write a letter
+  filename: t-letter.html
+  child: false
   publish: true
-
-- topic: How to put a monkey inside a box
-  filename: t-boxing.html
+ 
+- topic: How to create a spreadsheet
+  filename: t-spreadsheet.html
   child: false
   publish: true
 
-- topic: Nutritional recommendations for monkeys
-  filename: r-nutrition.html
+ - topic: How to create a presentation
+  filename: t-presentation.html
   child: false
   publish: true
