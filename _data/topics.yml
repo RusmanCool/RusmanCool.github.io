@@ -8,7 +8,7 @@
   child: false
   publish: true
   
- - topic: How to first launch LibreOffice suite
+- topic: How to first launch LibreOffice suite
   filename: t-first_run.html
   child: false
   publish: true
@@ -23,7 +23,7 @@
   child: false
   publish: true
 
- - topic: How to create a presentation
+- topic: How to create a presentation
   filename: t-presentation.html
   child: false
   publish: true
